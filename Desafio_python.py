@@ -1,7 +1,7 @@
 import openpyxl
 workbook = openpyxl.load_workbook('python.xlsx')
 planilha = workbook['Usuários']
-# planilha = workbook.active
+planilha = workbook.active
 import os # = importa o limpa tela --> os.system('cls')
 import time # = importa tempo de tela --> time.sleep()
 from tabulate import tabulate 
