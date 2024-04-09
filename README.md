@@ -6,6 +6,9 @@
 * Instale o openpyxl no terminal do VSCODE: pip install openpyxl
 * Documentação OpenPyXl: https://openpyxl.readthedocs.io/en/stable/
 
+# PRINT DA PLANILHA
+<img src="https://github.com/DevSharkMT/CADASTRO-DE-DADOS-PESSOAIS/assets/155767351/b331c130-0627-421b-ad7d-5d48da2bfa5c">
+
 <br>
 
 ## INFORMAÇÕES ADICIONAIS
