@@ -1,6 +1,6 @@
 # INFORMAÇÕES SOBRE O CÓDIGO
 * Código feito na linguagem python, onde a principal biblioteca é a Openpyxl, que introduz em uma planilha do Excel, os dados inseridos no código.
-
+* O código deve permitir com que o usuário consiga se cadastrar e vizualizar suas informações em uma planilha.
 * Cadastro de informações( Nome, cpf, telefone, email, endereço, nascimento).
 * SISTEMA CRUD.
 * Instale o openpyxl no terminal do VSCODE: pip install openpyxl
